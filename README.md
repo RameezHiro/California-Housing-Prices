@@ -6,6 +6,11 @@ Predict median house prices in California districts using census data.
 ## Dataset
 California Housing dataset containing demographic and geographical features.
 
+## Tech Stack
+Python, Pandas, Scikit-learn, Matplotlib
+
+## Status: 🔄 Work in progress
+
 ## Approach
 - Performed detailed EDA to understand distributions and relationships
 - Engineered meaningful ratio-based features
